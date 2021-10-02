@@ -1,2 +1,2 @@
 # IconPatcher
-🎨   A simple solution for replacing app icons on MacOS
+🎨 &nbsp;A simple solution for replacing app icons on MacOS
